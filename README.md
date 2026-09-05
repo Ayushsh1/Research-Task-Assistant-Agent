@@ -20,7 +20,7 @@ agent-project/
 ├── agent.py        # Agent + LLM setup (AgentExecutor)
 ├── tools.py        # Tool definitions (search, wiki, calculator, notes)
 ├── requirements.txt
-└── .env.example    # Copy to .env and add your OpenAI key
+└── .env
 ```
 
 ## Setup

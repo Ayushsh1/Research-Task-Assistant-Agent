@@ -32,10 +32,6 @@ agent-project/
 
 2. **Add your OpenAI API key**
 
-   Either:
-   - Copy `.env.example` to `.env` and fill in your key, or
-   - Paste it directly into the Streamlit sidebar when the app runs.
-
 3. **Run the app**
    ```bash
    streamlit run app.py
